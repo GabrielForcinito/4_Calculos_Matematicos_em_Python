@@ -48,11 +48,8 @@ Calcula o valor total de uma prestação em atraso com base em multa percentual 
 ## 💻 Como executar
 
 1. Certifique-se de ter o Python instalado
-2. Execute o projeto desejado:
-
-```bash id="w3x2dj"
-python nome_do_arquivo.py
-```
+2. Baixe a pasta anexada
+3. Abra a pasta com Vscode e execute os códigos desejados
 
 ## 📚 Aprendizado
 
@@ -63,13 +60,6 @@ Neste conjunto de projetos foram praticados:
 * Uso de fórmulas
 * Entrada e saída de dados
 * Organização de código
-
-## 🚀 Melhorias futuras
-
-* Criar um menu interativo para selecionar os cálculos
-* Implementar tratamento de erros
-* Melhorar a organização dos arquivos
-* Expandir com novos cálculos matemáticos
 
 ## 👨‍💻 Autor
 
